@@ -65,6 +65,7 @@ button {
     -webkit-transition: background 0.3s;
     -moz-transition: background 0.3s;
     text-transform: uppercase;
+    outline: none;
 }
 
 button:hover {
